@@ -3,6 +3,9 @@ In this I have used public datasets to do the analysis. I am going to share the 
 
 Technology I will be using:
 -MS Excel
+
 -SQL
+
 -Python/ R Programming Language
+
 -Tableau 
