@@ -10,3 +10,8 @@ Technology I will be using:
 -Python/ R Programming Language
 
 -Tableau 
+
+#Mexico_Toy_Sales
+In this I have used MsExcel, SQL and Tableau. I have explored the data and analysis based on the requirement.
+Dataset, query file and visualization is attached in the file.
+YOu can also view the visualization in: https://public.tableau.com/views/Mexico_Toy_Sales/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
