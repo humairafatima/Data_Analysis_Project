@@ -15,7 +15,7 @@ Technology I will be using:
 
 #Mexico_Toy_Sales
 
-In this I have used MsExcel, SQL and Tableau. I have explored the data and analysis based on the requirement.
+In this I have used MS Excel, SQL and Tableau. I have explored the data and analysis based on the requirement.
 
 Dataset, query file and visualization is attached in the file.
 
